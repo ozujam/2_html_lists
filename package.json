@@ -1,0 +1,21 @@
+{
+  "name": "2_html_lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "16.4.0",
+    "jsdom-global": "3.0.2",
+    "mocha": "^8.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-dom": "^1.8.2"
+  }
+}
