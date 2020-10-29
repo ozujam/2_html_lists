@@ -1,4 +1,4 @@
-# Lab 1, Say Hello 
+# Lab 2, Say Hello 
 
 ### Artical Section
 
