@@ -51,13 +51,13 @@ You’re going to make HTML lists.
 First, create an *unordered* list of **three** pizza toppings.
 	
 - Create a `<ul>` element.
-- You should have three `<li>` elements within your ul element.
+- You should have three `<li>` elements within your `ul` element.
 - Your `<ul>` element should have a closing tag.
 - Your `<li>` elements should have closing tags.
 
 Second, create an *ordered* list of **three** things you do in the morning.
 
 - Create a `<ol>` element.
-- You should have three `<li>` elements within your ul element.
+- You should have three `<li>` elements within your `ol` element.
 - Your `<ol>` element should have a closing tag.
 - Your `<li>` elements should have closing tags.
